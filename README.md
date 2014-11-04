@@ -5,5 +5,4 @@ Regions
 • Deze Gamemode word gemaakt met de Sponge API.
 • Developers:
 • Saeyer, knagieknagger, jaspy2000, Regions
-  
-("Hallo Wereld");
+
