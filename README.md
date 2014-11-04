@@ -1,5 +1,6 @@
 Regions
 =======
+<hr>
   
 Regions is een concept voor een nieuwe gamemode in Minecraft.<br/>
 Deze Gamemode word gemaakt met de Sponge API.
