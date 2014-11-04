@@ -3,7 +3,7 @@ Regions
   
 Regions is een concept voor een nieuwe gamemode in Minecraft.
 Deze Gamemode word gemaakt met de Sponge API.
-<strong>Developers:</strong><br/>
+<h3><strong>Developers:</strong></h3><br/>
 • Saeyer<br/>
 • knagieknagger<br/> 
 • jaspy2000 <br/>
