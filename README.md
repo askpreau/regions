@@ -1,6 +1,6 @@
 Regions
 =======
-<hr>
+
   
 Regions is een concept voor een nieuwe gamemode in Minecraft.<br/>
 Deze Gamemode word gemaakt met de Sponge API en word waarschijnlijk in maart 2015 gereleased.<br/>
@@ -11,7 +11,6 @@ Meer info over deze gamemode klik <a href = "http://minecraftforum.nl/index.php/
 <li><strong>knagieknagger</strong><br/> 
 <li> <strong>jaspy2000</strong> <br/>
 <li> <strong>Regions</strong> (JeroenPlays_MC)<br/>
-
 <ul>
 
 
