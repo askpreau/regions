@@ -7,11 +7,12 @@ Deze Gamemode word gemaakt met de Sponge API en word waarschijnlijk in maart 201
 Meer info over deze gamemode klik <a href = "http://minecraftforum.nl/index.php/topic,50047.0.html">hier<a>.<br/>
 <h3>Developers:</h3>
 <ul>
-<li>Saeyer<br/>
-<li>knagieknagger<br/> 
-<li> jaspy2000 <br/>
-<li> Regions<br/>
-    IGN = JeroenPlays_MC
+<li><strong>Saeyer</strong><br/>
+<li><strong>knagieknagger</strong><br/> 
+<li> <strong>jaspy2000</strong> <br/>
+<li> <strong>Regions</strong> (JeroenPlays_MC)<br/>
+
 <ul>
+
 
 
