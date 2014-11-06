@@ -16,8 +16,11 @@ Developers:
 </ul>
 Links
 =
+<strong>
 <a href="http://www.itsmilan.nl/regions">Website</a><br/>
 <a href="http://www.youtube.com" nog goed instellen>Youtube</a>
+<a href = "http://www.patreon.com/regions">Patreon</a>
+</strong>
 
 
 
